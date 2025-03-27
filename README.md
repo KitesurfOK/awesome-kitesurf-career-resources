@@ -21,6 +21,7 @@ An expertly curated list of awesome resources for finding jobs, developing skill
     *   [Resort & Camp Staff Roles](#resort--camp-staff-roles)
     *   [Safety & Fitness Professionals](#safety--fitness-professionals)
     *   [App Development & IT](#app-development--it)
+*   [Researching Companies & Industry Players](#researching-companies--industry-players)
 *   [Career Development Advice](#career-development-advice)
 *   [Working in Top Kite Destinations](#working-in-top-kite-destinations)
 *   [Official Organizations & Governing Bodies](#official-organizations--governing-bodies)
@@ -148,6 +149,12 @@ An expertly curated list of awesome resources for finding jobs, developing skill
 *   **Direct Job Links on KitesurfOK:**
     *   [Engineering & IT Jobs](https://kitesurfok.com/categories/engineering-it)
 
+## Researching Companies & Industry Players
+
+*Identify potential employers and understand the industry landscape.*
+
+*   **NEW RESOURCE:** 🏢 [**Kitesurf Industry Directory**](https://github.com/KitesurfOK/kitesurf-industry-directory) - A curated list of major brands, schools, and organizations. Links to KitesurfOK company profiles. Useful for researching companies before applying for jobs listed on [KitesurfOK.com](https://kitesurfok.com).
+
 ## Career Development Advice
 
 *Craft your resume, ace interviews, and network effectively.*
@@ -160,19 +167,20 @@ An expertly curated list of awesome resources for finding jobs, developing skill
 
 ## Working in Top Kite Destinations
 
-*Find job opportunities in the world's best kitesurfing locations.*
+*Find job opportunities and learn about the world's best kitesurfing locations.*
 
+*   **NEW RESOURCE:** 🗺️ [**Kitesurf Spot Data (Open Dataset)**](https://github.com/KitesurfOK/kitesurf-spot-data-open) - A community-driven dataset listing spots worldwide with attributes relevant for working there (wind season, water type, job relevance).
 *   *Read:* [Top Countries for Kitesurfing Instructor Jobs](https://maxfi.beehiiv.com/p/top-countries-for-kitesurfing-instructor-jobs)
 *   *Read:* [Best Locations for Kitesurfing Camps Worldwide](https://maxfi.beehiiv.com/p/best-locations-for-kitesurfing-camps-worldwide)
 *   *Read:* [Best Locations for Kitesurfing Resort Jobs](https://maxfi.beehiiv.com/p/best-locations-for-kitesurfing-resort-jobs)
 *   **Browse Jobs by Location on KitesurfOK:**
     *   **Europe:** [Spain](https://kitesurfok.com/jobs/kitesurfing/spain) | [Italy](https://kitesurfok.com/jobs/kitesurfing/italy) | [Germany](https://kitesurfok.com/jobs/kitesurfing/germany) | [Greece](https://kitesurfok.com/jobs/kitesurfing/greece) | [Portugal](https://kitesurfok.com/jobs/kitesurfing/portugal) | [Netherlands](https://kitesurfok.com/jobs/kitesurfing/netherlands) | [Croatia](https://kitesurfok.com/jobs/kitesurfing/croatia) | [Cyprus](https://kitesurfok.com/jobs/kitesurfing/cyprus) | [Austria](https://kitesurfok.com/jobs/kitesurfing/austria)
-        *   *Spotlight Spain:* [Fuerteventura](https://kitesurfok.com/jobs/kitesurfing/spain/fuerteventura) | [Tarifa Area (Cadiz)](https://kitesurfok.com/jobs/kitesurfing/spain) *(Assume generic Spain link covers Tarifa for now)* | [Mallorca](https://kitesurfok.com/jobs/kitesurfing/spain/mallorca)
+        *   *Spotlight Spain:* [Fuerteventura](https://kitesurfok.com/jobs/kitesurfing/spain/fuerteventura) | [Tarifa Area (Cadiz)](https://kitesurfok.com/jobs/kitesurfing/spain) | [Mallorca](https://kitesurfok.com/jobs/kitesurfing/spain/mallorca)
         *   *Spotlight Italy:* [Lake Garda (Torbole)](https://kitesurfok.com/jobs/kitesurfing/italy/torbole) | [Sardinia](https://kitesurfok.com/jobs/kitesurfing/italy/sardinia) | [Sicily](https://kitesurfok.com/jobs/kitesurfing/italy/sicily)
         *   *Spotlight Germany:* [Fehmarn](https://kitesurfok.com/jobs/kitesurfing/germany/fehmarn) | [Rügen](https://kitesurfok.com/jobs/kitesurfing/germany/rugen) | [North Sea](https://kitesurfok.com/jobs/kitesurfing/germany/nordsee) | [Baltic Sea (Ostsee)](https://kitesurfok.com/jobs/kitesurfing/germany/ostsee)
         *   *Spotlight Greece:* [Rhodes](https://kitesurfok.com/jobs/kitesurfing/greece/rhodos) | [Kos](https://kitesurfok.com/jobs/kitesurfing/greece/kos) | [Naxos](https://kitesurfok.com/jobs/kitesurfing/greece/naxos) | [Limnos (Keros)](https://kitesurfok.com/jobs/kitesurfing/greece/keros)
     *   **North America:** [USA](https://kitesurfok.com/jobs/kitesurfing/usa) (incl. [Florida](https://kitesurfok.com/jobs/kitesurfing/usa/florida), [Washington](https://kitesurfok.com/jobs/kitesurfing/usa/washington)) | [Mexico](https://kitesurfok.com/jobs/kitesurfing/mexico)
-    *   **Caribbean:** [Aruba](https://kitesurfok.com/jobs/kitesurfing/aruba) | [Dominican Republic](https://kitesurfok.com/jobs/kitesurfing/) *(Add general DR link if available, or rely on blog posts)*
+    *   **Caribbean:** [Aruba](https://kitesurfok.com/jobs/kitesurfing/aruba) | [Dominican Republic](https://kitesurfok.com/jobs/kitesurfing/)
     *   **Central & South America:** [Panama](https://kitesurfok.com/jobs/kitesurfing/panama) | [Peru](https://kitesurfok.com/jobs/kitesurfing/peru) | [Brazil](https://kitesurfok.com/jobs/kitesurfing/brazil)
     *   **Africa:** [South Africa](https://kitesurfok.com/jobs/kitesurfing/south-africa) | [Egypt](https://kitesurfok.com/jobs/kitesurfing/egypt) | [Kenya](https://kitesurfok.com/jobs/kitesurfing/kenya) | [Mauritius](https://kitesurfok.com/jobs/kitesurfing/mauritius) | [Cape Verde (Kapverden)](https://kitesurfok.com/jobs/kitesurfing/kapverden)
     *   **Asia:** [Thailand](https://kitesurfok.com/jobs/kitesurfing/thailand) | [Vietnam](https://kitesurfok.com/jobs/kitesurfing/vietnam)
@@ -185,7 +193,6 @@ An expertly curated list of awesome resources for finding jobs, developing skill
 *   [IKO (International Kiteboarding Organization)](https://www.ikointl.com/) - Leading instructor certification body.
 *   [VDWS (Verband Deutscher Wassersport Schulen)](https://www.vdws.de/en/) - Major watersports training association, strong in Europe.
 *   [GKA (Global Kitesports Association)](https://www.gkakiteworldtour.com/) - Organizes the professional world tour.
-    *   *[Consider adding links to significant National Associations like BKSA (UK), KA (Australia), FFVL (France) if relevant to your audience]*
 
 ---
 
