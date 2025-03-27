@@ -1,4 +1,4 @@
-# Awesome Kitesurf Career Resources [![KitesurfOK Logo](URL_TO_YOUR_LOGO_HOSTED_ELSEWHERE_OR_IN_REPO)](https://kitesurfok.com)
+# Awesome Kitesurf Career Resources [![KitesurfOK Logo](https://kitesurfok.com/favicon.ico)](https://kitesurfok.com)
 
 An expertly curated list of awesome resources for finding jobs, developing skills, and building a successful career in the global **kitesurfing** and **kiteboarding industry**. This list is proudly maintained by [**KitesurfOK.com**](https://kitesurfok.com), the #1 job board dedicated to connecting talent with opportunities in the kite world.
 
@@ -191,7 +191,7 @@ An expertly curated list of awesome resources for finding jobs, developing skill
 
 ## Contributing
 
-Know a fantastic resource we missed? Found a broken link? Your contributions are highly encouraged! Please [**open an issue**](URL_TO_YOUR_REPO_ISSUES_PAGE) to suggest additions, corrections, or improvements, or feel free to submit a pull request. Let's make this the best kitesurf career resource together!
+Know a fantastic resource we missed? Found a broken link? Your contributions are highly encouraged! Please [**open an issue**](https://github.com/KitesurfOK/awesome-kitesurf-career-resources/issues) to suggest additions, corrections, or improvements, or feel free to submit a pull request. Let's make this the best kitesurf career resource together!
 
 ---
 
